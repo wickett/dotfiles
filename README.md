@@ -7,6 +7,9 @@ $ git clone git@github.com:wickett/dotfiles
 $ cd dotfiles
 $ ./osx_install.sh
 ```
+##
+`brew install tmux`
+
 
 ## iTerm2 settings
 
