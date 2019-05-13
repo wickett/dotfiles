@@ -37,6 +37,9 @@ bindkey -M menuselect 'j' vi-down-line-or-history
 
 # User configuration
 
+POWERLEVEL9K_PROMPT_ON_NEWLINE=true
+POWERLEVEL9K_PROMPT_ADD_NEWLINE=true
+
 # export MANPATH="/usr/local/man:$MANPATH"
 
 # You may need to manually set your language environment
