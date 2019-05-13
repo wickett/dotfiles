@@ -10,6 +10,10 @@ $ ./osx_install.sh
 ##
 `brew install tmux`
 
+## Upgrade bash
+`brew install bash`
+
+then follow this guide https://itnext.io/upgrading-bash-on-macos-7138bd1066ba
 
 ## iTerm2 settings
 
