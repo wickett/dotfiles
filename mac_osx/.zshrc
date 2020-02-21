@@ -18,11 +18,14 @@ ZSH_THEME="powerlevel9k/powerlevel9k"
 plugins=(
   brew
   docker
+  droplr
+  extract
   git
   iterm2
   kubectl
   python
   tmux
+  osx
 )
 
 source $ZSH/oh-my-zsh.sh
