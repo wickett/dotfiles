@@ -68,3 +68,4 @@ POWERLEVEL9K_PROMPT_ADD_NEWLINE=true
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 alias curl-trace='curl -w "@/Users/wickett/workspace/dotfiles/mac_osx/.curl-format" -o /dev/null -s'
+export PATH="/usr/local/sbin:$PATH"
